@@ -19,8 +19,8 @@ function generateMarkdown(data) {
   ![alt-text](${data.screenshot})
   ## Table of Contents
   * [Features](#features)
-  * [Languages & Dependencies](#languagesanddependencies)
-  * [How to Use This Application](#HowtoUseThisApplication)
+  * [Languages & Dependencies](#language-dependencies)
+  * [How to Use This Application](#how-to-use-this-application)
   * [Contributors](#contributors)
   * [Testing](#testing)
   * [Questions](#questions)

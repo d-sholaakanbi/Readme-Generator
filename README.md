@@ -5,29 +5,24 @@
   ## Deployed Application URL
   https://d-sholaakanbi.github.io/Readme-Generator/
   ## Screenshot
-  ![alt-text](https://github.com/d-sholaakanbi/Readme-Generator.git)
+  ![alt-text](undefined)
   ## Table of Contents
   * [Features](#features)
-  * [Languages & Dependencies](#languagesanddependencies)
-  * [How to Use This Application](#HowtoUseThisApplication)
+  * [Languages & Dependencies](#language-dependencies)
+  * [How to Use This Application](#how-to-use-this-application)
   * [Contributors](#contributors)
   * [Testing](#testing)
   * [Questions](#questions)
   ## Features
-  It creates a Readme.md file
+    It creates a Readme.md file
   ## Languages & Dependencies
-  Inquirer 
+  Inquirer
   ## How to Use This Application:
-  Node.js javascript 
+  To use the Team Profile Generator, follow these steps:
   ## Contributors
-  
+  d-sholaakanbi
   ## Testing
-  To use the Professional README Generator, follow these steps:
-  1. Open your terminal and navigate to the project's directory.
-  2. Run the application using the following command:
-  3. Answer the prompted questions to provide information about your project.
-  4. Once all questions are answered, the application will generate a README.md file with the provided information.
-
+  
   ## Questions
-  Please send your questions [here](mailto:oluwalonshola6@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/d-sholaakanbi](https://github.com/d-sholaakanbi).
+  Please send your questions [here](mailto:oluwalonshola6@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/github/d-sholaakanbi](https://github.com/github/d-sholaakanbi).
   

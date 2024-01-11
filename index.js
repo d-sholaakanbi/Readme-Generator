@@ -8,7 +8,7 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "Name of your Project.",
+        message: "Title of your Project.",
       },
       {
         type: "input",
@@ -17,29 +17,8 @@ const questions = [
       },
       {
         type: "input",
-        name: "screenshot",
-        message: "Provide the relative path to the image you want to use as the screenshot."
-      },
-      {
-        type: "input",
-        name: "link",
-        message: "Provide a URL where a user can access your deployed application."
-      },
-      {
-        type: "checkbox",
-        name: "license",
-        message: "Select a license applicable to this project.",
-        choices: ["MIT", "APACHE2.0", "Boost1.0", "MPL2.0", "BSD2", "BSD3", "none"],
-      },
-      {
-        type: "input",
-        name: "require",
-        message: "List any project dependencies here.",
-      },
-      {
-        type: "input",
-        name: "features",
-        message: "List some cool features about this project here.",
+        name: "installation",
+        message: "Provide the process in which to install the project.",
       },
       {
         type: "input",
@@ -48,14 +27,10 @@ const questions = [
           "State the languages or technologies associated with this project.",
       },
       {
-        type: "input",
-        name: "creator",
-        message: "Provide your GitHub username.",
-      },
-      {
-        type: "input",
-        name: "email",
-        message: "Provide a valid email address.",
+        type: "checkbox",
+        name: "license",
+        message: "Select a license applicable to this project.",
+        choices: ["MIT", "APACHE2.0", "Boost1.0", "MPL2.0", "BSD2", "BSD3", "none"],
       },
       {
         type: "input",
@@ -68,6 +43,35 @@ const questions = [
         name: "test",
         message: "Provide walkthrough of required tests if applicable.",
       },
+      {
+        type: "input",
+        name: "link",
+        message: "Provide a URL where a user can access your deployed application."
+      },
+      
+      {
+        type: "input",
+        name: "require",
+        message: "List any project dependencies here.",
+      },
+      {
+        type: "input",
+        name: "features",
+        message: "List some cool features about this project here.",
+      },
+      
+      {
+        type: "input",
+        name: "creator",
+        message: "Provide your GitHub username.",
+      },
+      {
+        type: "input",
+        name: "email",
+        message: "Provide a valid email address.",
+      },
+      
+      
 ];
 
 // function to write README file
